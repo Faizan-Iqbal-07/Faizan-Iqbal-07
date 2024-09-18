@@ -5,7 +5,7 @@
 - 💬 Ask me anything about React JS 
 - 📫 How to reach me: faizaniqbal2911@gmail.com
 - 😄 My website: https://thetechbrothers.net
-- ⚡ Fun fact: I'm comming to teen
+
   
 ### Connect with me:
 <div id="badges">
