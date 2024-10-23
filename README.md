@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Faizan Iqbal</h1>
+<h1 align="center">Hi 👋, I'm Faizan Iqbal</h1>
 
 - 🔭 I’m currently working on React JS
 - 🌱 I’m currently learning React JS
@@ -6,7 +6,8 @@
 - 📫 How to reach me: faizaniqbal2911@gmail.com
 - 😄 My website: https://thetechbrothers.net
 
-  
+![Profile Views](https://komarev.com/ghpvc/?username=Faizan-Iqbal-07&color=blue)
+
 ### Connect with me:
 <div id="badges">
   <a href="https://github.com/Faizan-Iqbal-07">
@@ -21,8 +22,6 @@
   <a href="https://www.instagram.com/faizan_iqbal_0x/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-
-
 </div>
 
 ### Languages and Tools:
@@ -30,10 +29,7 @@
 
 ![Faizan Iqbal GitHub stats](https://github-readme-stats.vercel.app/api?username=Faizan-Iqbal-07&show_icons=true&theme=dark)
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Iqbal-07&theme=dark)
-
-
 
 <br>
 ⭐️ From [Faizan-Iqbal-07](https://github.com/Faizan-Iqbal-07)
