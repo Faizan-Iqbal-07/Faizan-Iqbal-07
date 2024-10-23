@@ -6,7 +6,9 @@
 - 📫 How to reach me: faizaniqbal2911@gmail.com
 - 😄 My website: https://thetechbrothers.net
 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Faizan-Iqbal-07&color=blue)
+
 
 ### Connect with me:
 <div id="badges">
