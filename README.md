@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Faizan Iqbal</h1>
 
-- 🔭 I’m currently working on React JS
-- 🌱 I’m currently learning React JS
-- 💬 Ask me anything about React JS 
-- 📫 How to reach me: faizaniqbal2911@gmail.com
+- 🔭 I’m currently working on **React JS Projects**
+- 🌱 I’m currently learning **React JS & Tailwind CSS**
+- 💬 Ask me anything about **React JS or Web Development**
+- 📫 How to reach me: **faizaniqbal2911@gmail.com**
 - 😄 My website: https://thetechbrothers.net
 
   
