@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **React JS**
 - 💬 Ask me anything about **React JS**
 - 📫 How to reach me: **faizaniqbal2911@gmail.com**
-- 😄 My website: https://thetechbrothers.net
+- 😄 My website: https://personal-portfolio-beige-ten-86.vercel.app/
 
   
 ### Connect with me:
