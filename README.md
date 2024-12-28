@@ -1,34 +1,32 @@
-<h1 align="center">Hi 👋, I'm Faizan Iqbal</h1>
-
-- 🔭 I’m currently working on **React JS Projects**
-- 🌱 I’m currently learning **React JS**
-- 💬 Ask me anything about **React JS**
-- 📫 How to reach me: **faizaniqbal2911@gmail.com**
-- 😄 My website: https://personal-portfolio-beige-ten-86.vercel.app/
-
-  
-### Connect with me:
-<div id="badges">
-  <a href="https://github.com/Faizan-Iqbal-07">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/faizan-iqbal-80675a217/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-   <a href="https://www.facebook.com/profile.php?id=100016884229215">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  <a href="https://www.instagram.com/faizan_iqbal_0x/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e0c48e18-8477-4e2b-b3e4-934d8611960e" alt="Banner" width="780" height="430" />
 </div>
+<h1>
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFFFF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Faizan+Iqbal!;" />
+  </h1>
+</h1>
+<h3 align="center"><big>A Passionate Frontend Developer from Pakistan</big></h3>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Faizan-Iqbal-07&label=Profile%20views&color=0e75b6&style=flat" alt="Faizan-Iqbal-07" /> </p>
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,vscode,git,github&perline=5)](https://skillicons.dev)
+<img align="right" src="https://github.com/user-attachments/assets/555e9cba-4209-4e90-afd3-4bd269e5ab3c" alt="coding" width="280" />
 
-![Faizan Iqbal GitHub stats](https://github-readme-stats.vercel.app/api?username=Faizan-Iqbal-07&show_icons=true&theme=dark)
+- 🌱 I’m currently learning <big>**React.js, Node.js, Express.js, Next.js**</big>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Iqbal-07&theme=dark)
+- 💬 Ask me about <big>**HTML, CSS, JavaScript, React**</big>
+
+- 📫 How to reach me : **faizaniqbal2911@gmail.com**
+
+- ⚡ Fun fact **I think I’m pretty good at coding 😎**
+
+<h3 align="left"><big>Languages and Tools:</big></h3>
+<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" /></a><br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tailwind,git,github,vscode,redux" /></a>
+<br>
+<hr>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Faizan-Iqbal-07&show_icons=true&locale=en&layout=compact&theme=react" alt="Faizan-Iqbal-07" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Faizan-Iqbal-07&show_icons=true&locale=en&theme=react&rank_icon=github" alt="Faizan-Iqbal-07" /></p>  
 
 <br>
-⭐️ From [Faizan-Iqbal-07](https://github.com/Faizan-Iqbal-07)
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-Iqbal-07&theme=react" alt="Faizan-Iqbal-07" /></p>
