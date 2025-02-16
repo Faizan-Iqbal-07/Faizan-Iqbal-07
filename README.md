@@ -29,4 +29,5 @@
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Faizan-Iqbal-07&show_icons=true&locale=en&theme=react&rank_icon=github" alt="Faizan-Iqbal-07" /></p>  
 
 <br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-Iqbal-07&theme=react" alt="Faizan-Iqbal-07" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.vercel.app/?user=Faizan-Iqbal-07&theme=react" alt="Faizan-Iqbal-07" />
+</p>
