@@ -29,7 +29,8 @@
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Faizan-Iqbal-07&show_icons=true&locale=en&theme=react&rank_icon=github" alt="Faizan-Iqbal-07" /></p>  
 
 <br>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=" alt="GitHub Streak" /></a>
+<p>    <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Faizan-Iqbal-07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+</p>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=60&duration=6000&lines=Thanks+for+visiting!+✌;+shoot+me+massage+on+Linkedin!;" />
