@@ -22,7 +22,7 @@
 <h3 align="left"><big>Languages and Tools:</big></h3>
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,expressjs,mongodb ,bootstrap,redux" />
+  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,expressjs,mongodb,bootstrap,redux" />
 </a><br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=tailwind,git,github,vscode,html,css,postman" />
