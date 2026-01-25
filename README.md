@@ -21,8 +21,12 @@
 
 <h3 align="left"><big>Languages and Tools:</big></h3>
 <br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript,react,bootstrap ,nodejs,express,mongodb" /></a><br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tailwind,git,github,vscode,redux, html,css,Postman" /></a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=javascript,react,bootstrap,nodejs,expressjs,mongodb" />
+</a><br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=tailwind,git,github,vscode,redux,html,css,postman,docker" />
+</a>
 <br>
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Faizan-Iqbal-07&show_icons=true&locale=en&layout=compact&theme=react" alt="Faizan-Iqbal-07" /></p>
