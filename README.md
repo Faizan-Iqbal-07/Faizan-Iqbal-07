@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning <big>**React.js, Node.js, Express.js, Next.js ,MongoDb**</big>
 
-- 💬 - 💬 Ask me about <big>**Node.js, Express.js, MongoDB, REST APIs, JWT, Authentication**</big>
+- 💬 Ask me about <big>**Node.js, Express.js, MongoDB, REST APIs, JWT, Authentication**</big>
 
 - 📫 How to reach me : **faizaniqbal2911@gmail.com**
 
