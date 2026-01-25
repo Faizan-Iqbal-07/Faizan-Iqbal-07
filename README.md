@@ -11,9 +11,9 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/555e9cba-4209-4e90-afd3-4bd269e5ab3c" alt="coding" width="280" />
 
-- 🌱 I’m currently learning <big>**React.js, Node.js, Express.js, Next.js**</big>
+- 🌱 I’m currently learning <big>**React.js, Node.js, Express.js, Next.js ,MongoDb**</big>
 
-- 💬 Ask me about <big>**HTML, CSS, JavaScript, React**</big>
+- 💬 - 💬 Ask me about <big>**Node.js, Express.js, MongoDB, REST APIs, JWT, Authentication**</big>
 
 - 📫 How to reach me : **faizaniqbal2911@gmail.com**
 
@@ -22,10 +22,10 @@
 <h3 align="left"><big>Languages and Tools:</big></h3>
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=javascript,react,bootstrap,nodejs,expressjs,mongodb" />
+  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,expressjs,mongodb ,bootstrap,redux" />
 </a><br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=tailwind,git,github,vscode,redux,html,css,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=tailwind,git,github,vscode,html,css,postman" />
 </a>
 <br>
 <hr>
