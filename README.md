@@ -38,11 +38,11 @@
 <br>
 <hr>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Faizan-Iqbal-07&show_icons=true&theme=radical" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Faizan-Iqbal-07&layout=compact&theme=radical" />
 </p>
 
