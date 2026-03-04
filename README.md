@@ -39,11 +39,11 @@
 <hr>
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Faizan-Iqbal-07&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Faizan-Iqbal-07&show_icons=true&theme=react" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Faizan-Iqbal-07&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Faizan-Iqbal-07&layout=compact&theme=react" />
 </p>
 
 <br>
