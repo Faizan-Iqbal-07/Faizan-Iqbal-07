@@ -38,12 +38,12 @@
 <br>
 <hr>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Faizan-Iqbal-07&show_icons=true&locale=en&layout=compact&theme=react" alt="Faizan-Iqbal-07" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Faizan-Iqbal-07&show_icons=true&theme=radical&cache_seconds=1800" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faizan-Iqbal-07&show_icons=true&locale=en&theme=react&rank_icon=github" alt="Faizan-Iqbal-07" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Iqbal-07&layout=compact&theme=radical&cache_seconds=1800" />
 </p>
 
 <br>
