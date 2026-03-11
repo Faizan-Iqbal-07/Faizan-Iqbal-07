@@ -8,19 +8,25 @@
 
 <h3 align="center"><big>A Passionate Backend Developer from Pakistan</big></h3>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Faizan-Iqbal-07&label=Profile%20views&color=0e75b6&style=flat" alt="Faizan-Iqbal-07" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/faizan-iqbal/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/faizan_iqbal" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitter.svg" alt="Twitter" width="30" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:faizaniqbal2911@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" alt="Gmail" width="30" height="30" />
+  </a>
 </p>
 
 <img align="right" src="https://github.com/user-attachments/assets/555e9cba-4209-4e90-afd3-4bd269e5ab3c" alt="coding" width="280" />
 
-- 🌱 I’m currently learning **React.js, Node.js, Express.js, Next.js, MongoDB**
-
-- 💬 Ask me about **Node.js, Express.js, MongoDB, REST APIs, JWT, Authentication**
-
-- 📫 How to reach me: **faizaniqbal2911@gmail.com**
-
-- ⚡ Fun fact: **I think I’m pretty good at coding 😎**
+- 🌱 I’m currently learning **React.js, Node.js, Express.js, Next.js, MongoDB**  
+- 💬 Ask me about **Node.js, Express.js, MongoDB, REST APIs, JWT, Authentication**  
+- ⚡ Fun fact: **I think I’m pretty good at coding 😎**  
 
 <br>
 
@@ -38,18 +44,26 @@
 <br>
 <hr>
 
-<p align="left">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Faizan-Iqbal-07&show_icons=true&theme=react&count_private=true&cache_seconds=60" />
+<!-- Stats Cards -->
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Faizan-Iqbal-07&show_icons=true&theme=react&count_private=true&cache_seconds=60" width="48%" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Faizan-Iqbal-07&layout=compact&theme=react&count_private=true&cache_seconds=60" width="48%" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Faizan-Iqbal-07&layout=compact&theme=react&count_private=true&cache_seconds=60" />
-</p>
-
-<br>
-
-<p>
+<!-- Streak Stats -->
+<p align="center">
   <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Faizan-Iqbal-07&count_private=true&theme=react&border_radius=10&cache_seconds=60" alt="streak stats"/>
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Faizan-Iqbal-07&theme=react&no-frame=false&column=4" />
+</p>
+
+<!-- Contribution Snake Graph -->
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Faizan-Iqbal-07&theme=react-dark&hide_border=true" width="100%" />
 </p>
 
 <h3 align="center">
