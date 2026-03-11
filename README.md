@@ -39,7 +39,7 @@
 <hr>
 
 <p align="left">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Faizan-Iqbal-07&layout=compact&theme=react&cache_seconds=3600" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Faizan-Iqbal-07&show_icons=true&theme=react&count_private=true&cache_seconds=60" />
 </p>
 
 <p align="left">
