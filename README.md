@@ -43,7 +43,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Faizan-Iqbal-07&layout=compact&theme=react" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Faizan-Iqbal-07&layout=compact&theme=react&count_private=true&cache_seconds=60" />
 </p>
 
 <br>
