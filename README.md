@@ -53,17 +53,17 @@
 
 <!-- Streak Stats -->
 <p align="center">
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Faizan-Iqbal-07&count_private=true&theme=react&border_radius=10&cache_seconds=60" alt="streak stats"/>
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-Iqbal-07&count_private=true&theme=react&border_radius=10&cache_seconds=60" alt="streak stats"/>
 </p>
 
-<!-- GitHub Trophies -->
+<!-- GitHub Trophies (alternative reliable) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Faizan-Iqbal-07&theme=react&no-frame=false&column=4" />
+  <img src="https://gh-profile-trophy.vercel.app/?username=Faizan-Iqbal-07&theme=react&no-frame=false&column=4" alt="trophies" />
 </p>
 
-<!-- Contribution Snake Graph -->
+<!-- Contribution Graph (official GitHub) -->
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Faizan-Iqbal-07&theme=react-dark&hide_border=true" width="100%" />
+  ![GitHub Contributions](https://ghchart.rshah.org/Faizan-Iqbal-07)
 </p>
 
 <h3 align="center">
