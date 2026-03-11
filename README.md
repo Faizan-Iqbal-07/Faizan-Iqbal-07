@@ -49,7 +49,7 @@
 <br>
 
 <p>
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Faizan-Iqbal-07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Faizan-Iqbal-07&count_private=true&theme=react&border_radius=10&cache_seconds=60" alt="streak stats"/>
 </p>
 
 <h3 align="center">
