@@ -49,7 +49,7 @@
 <br>
 
 <p align="left">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-Iqbal-07&theme=react&count_private=true" alt="streak stats"/>
+  <img width="390" src="https://streak-stats.demolab.com?user=Faizan-Iqbal-07&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="streak stats"/>
 </p>
 
 <h3 align="center">
