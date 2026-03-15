@@ -39,17 +39,17 @@
 <hr>
 
 <p align="left">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Faizan-Iqbal-07&show_icons=true&theme=react&count_private=true&cache_seconds=60" />
+<img src="https://github-readme-stats.vercel.app/api?username=Faizan-Iqbal-07&show_icons=true&theme=react&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Faizan-Iqbal-07&layout=compact&theme=react&count_private=true&cache_seconds=60" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Iqbal-07&layout=compact&theme=react&count_private=true" />
 </p>
 
 <br>
 
 <p>
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Faizan-Iqbal-07&count_private=true&theme=react&border_radius=10&cache_seconds=60" alt="streak stats"/>
+<img width="390" src="https://streak-stats.demolab.com?user=Faizan-Iqbal-07&theme=react&border_radius=10" />
 </p>
 
 <h3 align="center">
