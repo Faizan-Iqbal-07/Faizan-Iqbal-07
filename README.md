@@ -14,13 +14,16 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/555e9cba-4209-4e90-afd3-4bd269e5ab3c" alt="coding" width="280" />
 
-- 🌱 I’m currently learning *React.js, Node.js, Express.js, Next.js, MongoDB*
+- 💻 Specialized in building scalable backend systems using Node.js, Express.js, and MongoDB
 
-- 💬 Ask me about *Node.js, Express.js, MongoDB, REST APIs, JWT, Authentication*
+- ⚙️ Experienced in developing RESTful APIs, authentication (JWT), and server-side logic
+
+- 🎨 I also have hands-on experience working with React.js for building user interfaces
+
+- ⚡ Passionate about creating efficient backend architectures while understanding frontend integration
 
 - 📫 How to reach me: *faizaniqbal2911@gmail.com*
 
-- ⚡ Fun fact: *I think I’m pretty good at coding 😎*
 
 <br>
 
