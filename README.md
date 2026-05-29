@@ -1,69 +1,42 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e0c48e18-8477-4e2b-b3e4-934d8611960e" alt="Banner" width="780" height="430" />
+  <img src="https://github.com/user-attachments/assets/e0c48e18-8477-4e2b-b3e4-934d8611960e" width="780" />
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFFFF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Faizan!;" />
-</h1>
+<h1 align="center">Hi 👋 I'm Muhammad Faizan</h1>
 
-<h3 align="center"><big>A Passionate Backend Developer from Pakistan</big></h3>
+<h3 align="center">Backend Developer from Pakistan</h3>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Faizan-Iqbal-07&label=Profile%20views&color=0e75b6&style=flat" />
+---
+
+## 💻 About Me
+- Node.js + Express.js Developer  
+- REST APIs + JWT Authentication  
+- MongoDB Experience  
+- React.js basics  
+- Backend focused developer  
+
+📫 Email: **faizaniqbal2911@gmail.com**
+
+---
+
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb,react,html,css,git,github,vscode,postman" />
 </p>
 
-<img align="right" src="https://github.com/user-attachments/assets/555e9cba-4209-4e90-afd3-4bd269e5ab3c" alt="coding" width="280" />
-
 ---
 
-- 💻 Specialized in building scalable backend systems using Node.js, Express.js, and MongoDB  
-- ⚙️ Experienced in developing RESTful APIs, authentication (JWT), and server-side logic  
-- 🎨 Hands-on experience with React.js for frontend integration  
-- ⚡ Passionate about clean backend architecture and system design  
-- 📫 How to reach me: **faizaniqbal2911@gmail.com**
+## 📊 GitHub Stats (WORKING)
 
----
-
-## 🚀 Languages and Tools
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,bootstrap,redux" />
-</a>
-
-<br>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=tailwind,git,github,vscode,html,css,postman" />
-</a>
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Faizan-Iqbal-07&show_icons=true&theme=react&hide_rank=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Faizan-Iqbal-07&show_icons=true&theme=default" />
 </p>
 
 ---
 
 ## 🔥 Top Languages
 
-<p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Faizan-Iqbal-07&layout=compact&theme=react" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Iqbal-07&layout=compact&theme=default" />
 </p>
-
----
-
-## 📈 Streak Stats
-
-<p align="left">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Faizan-Iqbal-07&theme=react&hide_border=true" />
-</p>
-
----
-
-## ✨ Thanks for visiting!
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=60&duration=6000&lines=Thanks+for+visiting!+✌;+Shoot+me+a+message+on+LinkedIn!;" />
-</h3>
