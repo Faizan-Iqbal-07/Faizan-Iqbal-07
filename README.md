@@ -9,21 +9,22 @@
 <h3 align="center"><big>A Passionate Backend Developer from Pakistan</big></h3>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Faizan-Iqbal-07&label=Profile%20views&color=0e75b6&style=flat" alt="Faizan-Iqbal-07" />
+  <img src="https://komarev.com/ghpvc/?username=Faizan-Iqbal-07&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <img align="right" src="https://github.com/user-attachments/assets/555e9cba-4209-4e90-afd3-4bd269e5ab3c" alt="coding" width="280" />
 
+---
+
 - 💻 Specialized in building scalable backend systems using Node.js, Express.js, and MongoDB  
 - ⚙️ Experienced in developing RESTful APIs, authentication (JWT), and server-side logic  
-- 🎨 Hands-on experience with React.js for frontend development  
-- ⚡ Passionate about efficient backend architecture and system design  
+- 🎨 Hands-on experience with React.js for frontend integration  
+- ⚡ Passionate about clean backend architecture and system design  
 - 📫 How to reach me: **faizaniqbal2911@gmail.com**
 
-<br>
+---
 
-<h3 align="left"><big>Languages and Tools:</big></h3>
-<br>
+## 🚀 Languages and Tools
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,bootstrap,redux" />
@@ -35,22 +36,33 @@
   <img src="https://skillicons.dev/icons?i=tailwind,git,github,vscode,html,css,postman" />
 </a>
 
-<br>
-<hr>
+---
+
+## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faizan-Iqbal-07&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide_rank=true&cache_seconds=1800&custom_title=Faizan%20Iqbal's%20Contributions" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Faizan-Iqbal-07&show_icons=true&theme=react&hide_rank=true" />
 </p>
+
+---
+
+## 🔥 Top Languages
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Iqbal-07&layout=compact&theme=react&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Faizan-Iqbal-07&layout=compact&theme=react" />
 </p>
 
-<br>
+---
+
+## 📈 Streak Stats
 
 <p align="left">
-  <img width="390" src="https://github-readme-streak-stats-eight.vercel.app/?user=Faizan-Iqbal-07&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Faizan-Iqbal-07&theme=react&hide_border=true" />
 </p>
+
+---
+
+## ✨ Thanks for visiting!
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=60&duration=6000&lines=Thanks+for+visiting!+✌;+Shoot+me+a+message+on+LinkedIn!;" />
