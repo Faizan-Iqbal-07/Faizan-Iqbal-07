@@ -42,11 +42,11 @@
 <hr>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faizan-Iqbal-07&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide_rank=true&cache_seconds=1800&custom_title=Faizan%20Iqbal's%20Contributions" />
+<img src="https://github-readme-stats.vercel.app/api?username=Faizan-Iqbal-07&show_icons=true&theme=react" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Iqbal-07&layout=compact&theme=react&count_private=true&include_all_commits=true&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Iqbal-07&layout=compact&theme=react" />
 </p>
 
 <br>
