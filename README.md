@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFFFF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Faizan!;" />
 </h1>
 
-<h3 align="center"><big>A Passionate Backend Developer from Pakistan</big></h3>
+<h3 align="center"><big>A Passionate MERN Stack Developer from Pakistan</big></h3>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Faizan-Iqbal-07&label=Profile%20views&color=0e75b6&style=flat" alt="Faizan-Iqbal-07" />
@@ -14,10 +14,10 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/555e9cba-4209-4e90-afd3-4bd269e5ab3c" alt="coding" width="280" />
 
-- 💻 Specialized in building scalable backend systems using Node.js, Express.js, and MongoDB  
+- 💻 Specialized in building full-stack web applications using the MERN Stack (MongoDB, Express.js, React.js, Node.js)  
 - ⚙️ Experienced in developing RESTful APIs, authentication (JWT), and server-side logic  
-- 🎨 Hands-on experience with React.js for frontend development  
-- ⚡ Passionate about efficient backend architecture and system design  
+- 🎨 Hands-on experience in building responsive and dynamic frontend applications using React.js  
+- ⚡ Passionate about clean architecture, scalable backend systems, and modern web development  
 - 📫 How to reach me: **faizaniqbal2911@gmail.com**
 
 <br>
